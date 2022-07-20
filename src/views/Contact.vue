@@ -1,5 +1,5 @@
 <template>
 <div>
-  Know more about us
+  Kindly contact us
 </div>
 </template>

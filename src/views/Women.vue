@@ -1,5 +1,5 @@
 <template>
 <div>
-  Know more about us
+  Welcome to the Women's page
 </div>
 </template>
